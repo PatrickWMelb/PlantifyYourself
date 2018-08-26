@@ -33,4 +33,5 @@ post_date: 2016-03-22 18:41:55
         <input type="text" name="text2" id="text2" maxlength="30">
     </p>
 </div>
+[CP_CALCULATED_FIELDS id="1"]
 <!-- /wp:html -->
