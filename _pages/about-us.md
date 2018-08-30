@@ -4,11 +4,11 @@ post_title: About Us
 author: Jonathan Green
 post_excerpt: ""
 layout: page
-permalink: http://35.226.97.185/about-us/
+permalink: http://plantifyourself.tk/about-us/
 published: true
 post_date: 2016-03-22 18:38:38
 ---
-<img class="alignnone size-full wp-image-343" src="https://demos.famethemes.com/photobookwp-content/uploads/sites/40/2016/03/screen.jpg" alt="screen" width="1600" height="800" />
+[subway_login] <img class="alignnone size-full wp-image-343" src="https://demos.famethemes.com/photobookwp-content/uploads/sites/40/2016/03/screen.jpg" alt="screen" width="1600" height="800" />
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
 
