@@ -4,7 +4,7 @@ post_title: Blog
 author: Jonathan Green
 post_excerpt: ""
 layout: page
-permalink: http://plantifyourself.tk/blog/
+permalink: https://plantifyourself.tk/blog/
 published: true
 post_date: 2016-03-22 18:39:03
 ---
@@ -419,6 +419,7 @@ fieldset:disabled a.btn {
     .btn-outline-dark:not(:disabled):not(.disabled):active:focus, .btn-outline-dark:not(:disabled):not(.disabled).active:focus,
     .show > .btn-outline-dark.dropdown-toggle:focus {
       box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125), 0 0 0 0.2rem rgba(21, 21, 21, 0.5); }
+
 
 .btn-link {
   font-weight: 200;
