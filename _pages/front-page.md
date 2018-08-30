@@ -4,34 +4,136 @@ post_title: Front Page
 author: Jonathan Green
 post_excerpt: ""
 layout: page
-permalink: http://plantifyourself.tk/front-page/
+permalink: https://plantifyourself.tk/front-page/
 published: true
 post_date: 2016-03-22 18:41:55
 ---
 <!-- wp:html -->
-<script>jQuery(document).ready(function () {
-    jQuery(".text").hide();
-    jQuery("#r1").click(function () {
-        jQuery(".text").show();
-    });
-    jQuery("#r2").click(function () {
-        jQuery(".text").hide();
-    });
-});
-	</script>
-<p>Show textboxes
-<input type="radio" name="radio1" id="r1" value="Show" onclick="getResults()">Do nothing
-    <input type="radio" name="radio1" id="r2" value="Nothing">
-</p>Wonderful textboxes:
-<div class="text">
-    <p>Textbox #1
-        <input type="text" name="text1" id="text1" maxlength="30">
-    </p>
-</div>
-<div class="text">
-    <p>Textbox #2
-        <input type="text" name="text2" id="text2" maxlength="30">
-    </p>
-</div>
-[CP_CALCULATED_FIELDS id="1"]
+<div class="py-5">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h1 class="CTitle">How many nutritions you need?</h1>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="py-5">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-2">
+          <p class="lead">Your Gender: </p>
+        </div>
+        <div class="col-md-6 ">
+          <div class="btn-group">
+            <button class="btn btn-outline-primary dropdown-toggle" data-toggle="dropdown"> Gender </button>
+            <div class="dropdown-menu">
+              <a class="dropdown-item" href="#">Male</a>
+              <a class="dropdown-item" href="#">Female</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="CTitle">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+      </div>
+      <div class="row">
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+      </div>
+      <div class="row">
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+      </div>
+      <div class="row">
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+      </div>
+      <div class="row">
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+      </div>
+      <div class="row">
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+      </div>
+      <div class="row">
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+      </div>
+      <div class="row">
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+      </div>
+      <div class="row">
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+      </div>
+      <div class="row">
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+      </div>
+      <div class="row">
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+      </div>
+      <div class="row">
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+      </div>
+      <div class="row">
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+      </div>
+      <div class="row">
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+      </div>
+      <div class="row">
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+      </div>
+      <div class="row">
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+      </div>
+    </div>
+  </div>
 <!-- /wp:html -->
