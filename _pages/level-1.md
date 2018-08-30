@@ -4,7 +4,7 @@ post_title: Level 1
 author: Jonathan Green
 post_excerpt: ""
 layout: page
-permalink: https://plantifyourself.tk/level-1/
+permalink: http://plantifyourself.tk/level-1/
 published: true
 post_date: 2016-03-22 18:42:19
 ---
