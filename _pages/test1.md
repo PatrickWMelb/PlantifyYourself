@@ -4,7 +4,7 @@ post_title: Test1
 author: user
 post_excerpt: ""
 layout: page
-permalink: http://plantifyourself.tk/test1/
+permalink: https://plantifyourself.tk/test1/
 published: true
 post_date: 2018-08-30 14:04:53
 ---
@@ -19,7 +19,7 @@ password: "1234,qwer",
 database: "VegNutr"
 });
 con.connect();
-var query = con.query("SELECT * FROM VegNutr", function (err, result);
+var query = con.query("Select FIELD1, FIELD2, FIELD3, FIELD4 from TopVeg;", function (err, result);
 console.log(result);
 });
 });
