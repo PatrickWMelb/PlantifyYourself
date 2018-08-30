@@ -4,7 +4,7 @@ post_title: Level 3
 author: Jonathan Green
 post_excerpt: ""
 layout: page
-permalink: https://plantifyourself.tk/level-3/
+permalink: http://plantifyourself.tk/level-3/
 published: true
 post_date: 2016-03-22 18:48:37
 ---
