@@ -782,11 +782,11 @@ tbody.collapse.show {
           <p class="lead">Your Gender: </p>
         </div>
         <div class="col-md-6 ">
-          <div class="btn-group">
-            <button class="btn btn-outline-primary dropdown-toggle" data-toggle="dropdown"> Gender </button>
+          <div class="dropdown">
+            <button class="dropbtn"> Gender </button>
             <div class="dropdown-content">
-              <a class="dropdown-item" href="#">Male</a>
-              <a class="dropdown-item" href="#">Female</a>
+              <a href="#">Male</a>
+              <a href="#">Female</a>
             </div>
           </div>
         </div>
