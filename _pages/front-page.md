@@ -730,6 +730,12 @@ tbody.collapse.show {
     position: absolute;
     clip: rect(0, 0, 0, 0);
     pointer-events: none; }
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: #3e8e41;}
 </style>
 <div class="py-5">
     <div class="container">
@@ -749,7 +755,7 @@ tbody.collapse.show {
         <div class="col-md-6 ">
           <div class="btn-group">
             <button class="btn btn-outline-primary dropdown-toggle" data-toggle="dropdown"> Gender </button>
-            <div class="dropdown-menu">
+            <div class="dropdown-content">
               <a class="dropdown-item" href="#">Male</a>
               <a class="dropdown-item" href="#">Female</a>
             </div>
