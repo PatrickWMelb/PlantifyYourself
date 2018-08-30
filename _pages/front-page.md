@@ -39,7 +39,7 @@ post_date: 2016-03-22 18:41:55
   <div class="CTitle">
     <div class="container">
       <div class="row">
-        <div class="col-md-3"></div>
+        <div class="col-md-3">aaa</div>
         <div class="col-md-3"></div>
         <div class="col-md-3"></div>
         <div class="col-md-3"></div>
