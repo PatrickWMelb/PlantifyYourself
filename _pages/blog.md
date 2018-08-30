@@ -4,7 +4,7 @@ post_title: Blog
 author: Jonathan Green
 post_excerpt: ""
 layout: page
-permalink: https://plantifyourself.tk/blog/
+permalink: http://plantifyourself.tk/blog/
 published: true
 post_date: 2016-03-22 18:39:03
 ---
