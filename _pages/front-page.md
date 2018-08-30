@@ -4,7 +4,7 @@ post_title: Front Page
 author: Jonathan Green
 post_excerpt: ""
 layout: page
-permalink: http://plantifyourself.tk/front-page/
+permalink: https://plantifyourself.tk/front-page/
 published: true
 post_date: 2016-03-22 18:41:55
 ---
@@ -894,7 +894,7 @@ tbody.collapse.show {
     </div>
   </div>
 <script>
-    var mysql = require('mysql');
+    var mysql = require('piy-project-tp263:us-central1:mysql');
 
 var con = mysql.createConnection({
   host: "35.232.215.112",
