@@ -756,8 +756,8 @@ tbody.collapse.show {
           <div class="btn-group">
             <button class="btn btn-outline-primary dropdown-toggle" data-toggle="dropdown"> Gender </button>
             <div class="dropdown-content">
-              <a class="dropdown-item" href="#">Male</a>
-              <a class="dropdown-item" href="#">Female</a>
+              <a href="#">Male</a>
+              <a href="#">Female</a>
             </div>
           </div>
         </div>
