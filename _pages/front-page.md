@@ -4,11 +4,11 @@ post_title: Front Page
 author: Jonathan Green
 post_excerpt: ""
 layout: page
-permalink: http://plantifyourself.tk/front-page/
+permalink: https://plantifyourself.tk/front-page/
 published: true
 post_date: 2016-03-22 18:41:55
 ---
-[subway_login] <!-- wp:html -->
+<!-- wp:html -->
 <style>
 .dropdown {
     position: relative;
@@ -94,6 +94,7 @@ post_date: 2016-03-22 18:41:55
 .dropdown-toggle:empty::after {
   margin-left: 0; }
 
+.dropup,
 .dropdown {
   position: relative; }
 
